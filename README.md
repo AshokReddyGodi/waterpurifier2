@@ -1,2 +1,2 @@
-# waterpurifier2
-added water purifier added
+# WaterPurifier
+Created a landing page for Thelu Aqua Technologies
